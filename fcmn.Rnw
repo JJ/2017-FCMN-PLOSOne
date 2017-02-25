@@ -230,7 +230,16 @@ Technology and CITIC (http://citic.ugr.es/), University of Granada.\\
 \end{flushleft}
 % Please keep the abstract below 300 words
 \section*{Abstract}
-%Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget porta erat. Morbi consectetur est vel gravida pretium. Suspendisse ut dui eu ante cursus gravida non sed sem. Nullam sapien tellus, commodo id velit id, eleifend volutpat quam. Phasellus mauris velit, dapibus finibus elementum vel, pulvinar non tellus. Nunc pellentesque pretium diam, quis maximus dolor faucibus id. Nunc convallis sodales ante, ut ullamcorper est egestas vitae. Nam sit amet enim ultrices, ultrices elit pulvinar, volutpat risus.
+In this paper we introduce a new methodology for examining software
+repositories by creating a network of files linked if they have been
+modified at the same time, the file co-modification network
+(FCMN). This new methodology allows us to easily 
+examine and compare network measures that determine its complex
+nature, while at the same time providing information on critical
+points in the evolution of the project they record. Using the FCMN on
+several ongoing project, we will prove the existence of a
+self-organized critical state as well as examine the point in time
+that provokes it. 
 
 
 \linenumbers
